@@ -1,0 +1,19 @@
+# Файлы виртуального окружения
+venv/
+env/
+.venv/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Файлы Jupyter Notebook
+.ipynb_checkpoints/
+
+# Чувствительные данные
+.env
+
+# Системные файлы (для macOS и Windows)
+.DS_Store
+Thumbs.db
